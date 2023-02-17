@@ -9,3 +9,15 @@ body{
 .task-result{
     list-style: none;
 }
+.compelted{
+    opacity: .3;
+}
+
+.delete{
+    display: none;
+}
+.btn-primary{
+    margin-inline: 35px;
+}
+
+margin-inline: 35px;
